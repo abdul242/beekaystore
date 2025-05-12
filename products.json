@@ -1,0 +1,18 @@
+
+[
+  {
+    "id": 1,
+    "name": "Stainless Steel Spoon Set",
+    "image": "images/spoon-set.jpg",
+    "description": "Durable and elegant for every kitchen.",
+    "reviews": ["Great quality!", "Love the shine."]
+  },
+  {
+    "id": 2,
+    "name": "Non-stick Frying Pan",
+    "image": "images/fry-pan.jpg",
+    "description": "Cook without sticking. Easy to clean.",
+    "reviews": ["Perfect for eggs.", "My best buy!"]
+  }
+]
+
